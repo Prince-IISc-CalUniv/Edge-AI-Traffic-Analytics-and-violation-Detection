@@ -189,7 +189,7 @@ outputs/
 *Speed histogram with overspeeding threshold marked.*
 
 ### Pothole Detection
-![Pothole Demo](docs/figures/pothole_demo_video_2.jpg)
+![Pothole Demo](docs/figures/pipeline3_pothole_detection_1.png)
 
 *Pothole detection with bounding box annotations.*
 
