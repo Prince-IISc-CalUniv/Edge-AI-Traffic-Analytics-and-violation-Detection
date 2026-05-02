@@ -8,7 +8,7 @@ PROJECT TITLE:
     Edge AI Traffic Analytics and violation Detection
 
 PROJECT DESCRIPTION:
-    A real-time, multi-task traffic monitoring system deployed  that simultaneously detects helmet violations, triple-riding,
+    A real-time, multi-task traffic monitoring system  that simultaneously detects helmet violations, triple-riding,
     overspeeding, traffic congestion, and road potholes using three compressed
     YOLOv8/v11 models (NCNN FP16). The system processes live camera feeds
     entirely on-device with no cloud dependency.
