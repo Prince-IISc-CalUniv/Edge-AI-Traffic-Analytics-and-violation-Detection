@@ -353,19 +353,15 @@ The system generates a speed distribution histogram after each run, showing the 
 
 ### Pothole Detection
 
-Pipeline 3 detects road surface potholes and traffic signs for infrastructure quality assessment:
+Pipeline 3 detects road surface potholes for infrastructure quality assessment:
 
-![Pothole Demo 1](docs/figures/pothole_demo_1.png)
+![Pothole Demo 1](docs/figures/pipeline3_pothole_detection_1.png)
 
 *Figure 6: Pothole detection on road surface showing multiple detected potholes.*
 
-![Pothole Demo Video Frame](docs/figures/pothole_demo_video_2.jpg)
+![Pothole Demo Video Frame](docs/figures/pipeline3_pothole_detection_3.jpg)
 
 *Figure 7: Pothole detection from video feed with bounding box annotations and confidence scores.*
-
-![Pothole Demo Video Frame 2](docs/figures/pothole_demo_video_3.jpg)
-
-*Figure 8: Additional pothole detection results from a different video source.*
 
 ### CSV Statistics Output
 
