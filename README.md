@@ -7,7 +7,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%205-red.svg)](https://raspberrypi.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Course:** CP 330 - Edge AI | **Term:** Jan-Apr 2026 | **Institution:** IISc Bangalore
+**Course:** CP 330 - Edge AI | **Term:** Jan-Apr 2026 | **Institution:** IISc Bangalore | [Watch Video Presentation](https://1drv.ms/v/c/6c05f5d51cfa8bff/IQBVmpbHzdCkTqnM-czBOS4hATj9no3jAsVaRAM2Bomwo-g?e=HET4uZ)
 
 ---
 
