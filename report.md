@@ -329,7 +329,7 @@ The main traffic model detects and classifies 14 vehicle categories in real time
 
 ![Pipeline 1 Sample Results](docs/figures/pipeline1_sample_result.png)
 
-*Figure 2: Vehicle detection results from Pipeline 1 showing classification of Two-wheelers, Sedans, Trucks, SUVs, Three-wheelers, and other vehicle categories on Indian urban traffic scenes.*
+*Figure 1: Vehicle detection results from Pipeline 1 showing classification of Two-wheelers, Sedans, Trucks, SUVs, Three-wheelers, and other vehicle categories on Indian urban traffic scenes.*
 
 ### Helmet Violation Detection
 
@@ -337,11 +337,11 @@ The helmet detection pipeline identifies motorcycles, associates riders using Io
 
 ![Helmet Detection at Intersection](docs/figures/detection_intersection_helmet.jpg)
 
-*Figure 3: Helmet and rider detection at a traffic intersection showing motorcycle-rider association.*
+*Figure 2: Helmet and rider detection at a traffic intersection showing motorcycle-rider association.*
 
 ![Violation Report](docs/figures/violation_report_helmet.jpg)
 
-*Figure 4: Detailed violation report showing helmet compliance status and triple-riding detection with color-coded bounding boxes (green = safe, red = violation).*
+*Figure 3: Detailed violation report showing helmet compliance status and triple-riding detection with color-coded bounding boxes (green = safe, red = violation).*
 
 ### Speed Distribution Output
 
@@ -349,7 +349,7 @@ The system generates a speed distribution histogram after each run, showing the 
 
 ![Speed Distribution Plot](docs/figures/speed_distribution.png)
 
-*Figure 5: Vehicle speed distribution from a sample run. Green bars indicate vehicles within the 60 km/h limit; red bars would appear for overspeeding vehicles. The dashed orange line marks the configurable speed limit.*
+*Figure 4: Vehicle speed distribution from a sample run. Green bars indicate vehicles within the 60 km/h limit; red bars would appear for overspeeding vehicles. The dashed orange line marks the configurable speed limit.*
 
 ### Pothole Detection
 
@@ -357,11 +357,11 @@ Pipeline 3 detects road surface potholes for infrastructure quality assessment:
 
 ![Pothole Demo 1](docs/figures/pipeline3_pothole_detection_1.png)
 
-*Figure 6: Pothole detection on road surface showing multiple detected potholes.*
+*Figure 4: Pothole detection on road surface showing multiple detected potholes.*
 
 ![Pothole Demo Video Frame](docs/figures/pipeline3_pothole_detection_3.png)
 
-*Figure 7: Pothole detection from video feed with bounding box annotations and confidence scores.*
+*Figure 5: Pothole detection from video feed with bounding box annotations and confidence scores.*
 
 ### CSV Statistics Output
 
