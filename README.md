@@ -153,8 +153,8 @@ outputs/
 | Model | Architecture | mAP50 | Size (.pt) | Size (Compressed) | Format |
 |-------|-------------|-------|------------|-------------------|--------|
 | Pipeline 1 | YOLOv11n | 0.81 | 6.2 MB | 3.2 MB | NCNN FP16 |
-| Pipeline 2 | YOLOv8n | 0.82 | 6.2 MB | 3.2 MB | NCNN FP16 |
-| Pipeline 3 | YOLOv8n | 0.75 | 6.2 MB | 3.2 MB | ONNX/TFLite FP16 |
+| Pipeline 2 | YOLOv8n | 0.82 | 10.61 MB | 5.38 MB | NCNN FP16 |
+| Pipeline 3 | YOLOv8n | 0.75 | 11.9 MB | 5.94 MB | ONNX/TFLite FP16 |
 
 ### On-Device Performance (Raspberry Pi 5)
 
