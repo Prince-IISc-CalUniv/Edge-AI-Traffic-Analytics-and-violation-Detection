@@ -359,7 +359,7 @@ Pipeline 3 detects road surface potholes for infrastructure quality assessment:
 
 *Figure 6: Pothole detection on road surface showing multiple detected potholes.*
 
-![Pothole Demo Video Frame](docs/figures/pipeline3_pothole_detection_3.jpg)
+![Pothole Demo Video Frame](docs/figures/pipeline3_pothole_detection_3.png)
 
 *Figure 7: Pothole detection from video feed with bounding box annotations and confidence scores.*
 
