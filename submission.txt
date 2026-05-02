@@ -1,0 +1,79 @@
+===============================================================================
+                    EDGE AI COURSE PROJECT SUBMISSION
+                    CP 330 - Edge AI | Jan-April | 2026
+                    Indian Institute of Science, Bangalore
+===============================================================================
+
+PROJECT TITLE:
+    Edge AI Traffic Analytics and violation Detection
+
+PROJECT DESCRIPTION:
+    A real-time, multi-task traffic monitoring system deployed on a Raspberry
+    Pi 5 that simultaneously detects helmet violations, triple-riding,
+    overspeeding, traffic congestion, and road potholes using three compressed
+    YOLOv8/v11 models (NCNN FP16). The system processes live camera feeds
+    entirely on-device with no cloud dependency.
+
+===============================================================================
+TEAM MEMBERS:
+===============================================================================
+
+1. Name:            Ashish Kumar Verma(26678)
+   Affiliation:     CiSTUP, Indian Institute of Science, Bangalore
+   Email:           ashishverma@gmail.com
+   Contribution:    Pipeline 1 - Helmet and triple-riding detection model
+                    training (YOLOv8n on merged Roboflow datasets), NCNN compression,
+                    rider-to-bike association logic, and overall project documentation
+
+2. Name:            Uppugunduru Sriram Anush(26918)
+   Affiliation:     CiSTUP, Indian Institute of Science, Bangalore
+   Email:           sriramanush@iisc.ac.in
+   Contribution:    Pipeline 2 - Traffic detection model training (YOLOv11n on UVH-26 dataset), homography-based speed
+                    estimation, congestion classification, Raspberry Pi 5
+                    deployment and integration, and overall project documentation
+
+3. Name:            Prince Kumar(26339)
+   Affiliation:     CiSTUP, Indian Institute of Science, Bangalore
+   Email:           kprince@iisc.ac.in
+   Contribution:    Pipeline 3 - Pothole detection model training (YOLOv8n on Kaggle dataset), edge model compression (ONNX/TFLite), 
+                    live inference implementation, and overall project documentation
+
+
+===============================================================================
+GITHUB PROJECT LINK:
+===============================================================================
+
+    https://github.com/Prince-IISc-CalUniv/Edge-AI-Traffic-Analytics-and-violation-Detection
+
+    The repository contains:
+    - All training code (Jupyter notebooks + Python scripts)
+    - Deployment scripts for Raspberry Pi 5
+    - Sample output files (annotated video frames, speed plots, CSV stats)
+    - Complete project report (report.md)
+    - Step-by-step reproduction instructions in README.md
+    - Dataset links and download instructions
+    - Model compression and export scripts
+
+===============================================================================
+PROJECT REPORT:
+===============================================================================
+
+    Location: report.md (in the root of the GitHub repository)
+    Also embedded in: README.md
+
+    The report follows the 12-section format:
+    1. Problem Statement, Motivation and Objectives
+    2. Proposed Solution (Overview)
+    3. Hardware and Software Setup
+    4. Data Collection and Dataset Preparation
+    5. Model Design, Training and Evaluation
+    6. Model Compression and Efficiency Metrics
+    7. Model Deployment and On-Device Performance
+    8. System Prototype (Pictures / Figures)
+    9. Conclusions and Limitations
+    10. Future Work
+    11. Challenges and Mitigation
+    12. References
+
+
+===============================================================================
