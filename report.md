@@ -260,7 +260,7 @@ TFLite Note: TFLite export was initially evaluated during development, but ONNX 
 |--------|:-:|:-:|:-:|:-:|:-:|:-:|
 | **Model Size** | ~6.2 MB | ~3.2 MB | ~10.61 MB | ~5.38 MB | ~11.9 MB | ~5.94 MB |
 | **mAP50** | 0.8165 | ~0.81 | 0.82 | ~0.81 | 0.805 | ~0.754 |
-| **Accuracy Drop** | - | < 1% | - | < 1% | - | 0.634% |
+| **Accuracy Drop** | - | < 1% | - | < 1% | - | 6.34% |
 | **Format** | PyTorch | NCNN FP16 | PyTorch | NCNN FP16 | PyTorch | TFLite & ONNX FP16 |
  
  
