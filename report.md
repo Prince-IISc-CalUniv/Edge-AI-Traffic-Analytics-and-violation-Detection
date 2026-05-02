@@ -258,7 +258,7 @@ TFLite Note: TFLite export was initially evaluated during development, but ONNX 
  
 | Metric | Pipeline 1 (.pt) | Pipeline 1 (NCNN FP16) | Pipeline 2 (.pt) | Pipeline 2 (NCNN FP16) | Pipeline 3 (.pt) | Pipeline 3 (TFLite/ONNX FP16) |
 |--------|:-:|:-:|:-:|:-:|:-:|:-:|
-| **Model Size** | ~6.2 MB | ~3.2 MB | ~6.2 MB | ~3.2 MB | ~6.2 MB | ~3.2 MB |
+| **Model Size** | ~6.2 MB | ~3.2 MB | ~10.61 MB | ~5.38 MB | ~11.9 MB | ~5.94 MB |
 | **mAP50** | 0.8165 | ~0.81 | 0.82 | ~0.81 | 0.805 | ~0.80 |
 | **Accuracy Drop** | - | < 1% | - | < 1% | - | < 1% |
 | **Format** | PyTorch | NCNN FP16 | PyTorch | NCNN FP16 | PyTorch | TFLite & ONNX FP16 |
